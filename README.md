@@ -1,2 +1,2 @@
-# Unity5-UNet-PingPong
-Simple Unity5 UNet PingPong example
+# Unity5-UNet-Chat
+Simple Unity5 UNet Chat example
